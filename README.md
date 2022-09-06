@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on public portfolio
+- ʕ•́ᴥ•̀ʔっ Backend Developer
+- 🔭 I’m currently learning go & vim
 - 📫 How to reach me: acephasanudin24@gmail.com
 
 ### Connect with me:

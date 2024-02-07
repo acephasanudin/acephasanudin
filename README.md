@@ -54,5 +54,6 @@ My name is Acep, and I'm a backend developer living in Cianjur, West Java, Indon
 ![Lambda](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Lambda&logo=amazonaws)
 
 ### 📈 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=acephasanudin&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acephasanudin&hide=html&layout=compact&langs_count=8&theme=dark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=acephasanudin&count_private=true&show_icons=true&include_all_commits=true&theme=dark)

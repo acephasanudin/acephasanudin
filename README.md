@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Acep, and I'm a backend developer living in Cianjur, West Java, Indonesia. Most of the time, you can find me coding. In my free time, I also enjoy playing video games and listening to music.
+My name is Acep, a backend developer living in Cianjur, West Java, Indonesia. Most of the time, you can find me coding. In my free time, I also enjoy playing video games and listening to music.
 
 [![wakatime](https://wakatime.com/badge/user/018c32f9-898f-4d83-8df2-eb70f4fe8f37.svg)](https://wakatime.com/@018c32f9-898f-4d83-8df2-eb70f4fe8f37)
 

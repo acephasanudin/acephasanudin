@@ -5,8 +5,8 @@ My name is Acep, a software engineer living in Cianjur, West Java, Indonesia. Mo
 [![wakatime](https://wakatime.com/badge/user/018c32f9-898f-4d83-8df2-eb70f4fe8f37.svg)](https://wakatime.com/@018c32f9-898f-4d83-8df2-eb70f4fe8f37)
 
 ### 🔌 Let's Connect
-[![Linkedin Badge](https://img.shields.io/badge/acep%96hasanudin-blue?logo=linkedin)](https://www.linkedin.com/in/acep-hasanudin/)
-[![Instagram Badge](https://img.shields.io/badge/acep%96hasanudin-white?logo=instagram)](https://www.instagram.com/acep.hasanudin/)
+[![Linkedin Badge](https://img.shields.io/badge/acephasanudin-blue?logo=linkedin)](https://www.linkedin.com/in/acep-hasanudin/)
+[![Instagram Badge](https://img.shields.io/badge/acep%20hasanudin-red?logo=instagram)](https://www.instagram.com/acep.hasanudin/)
 [![Gmail Badge](https://img.shields.io/badge/acephasanudin24@gmail.com-grey?logo=gmail)](mailto:acephasanudin24@gmail.com)
 
 ### ⚡ Languages
@@ -17,6 +17,7 @@ My name is Acep, a software engineer living in Cianjur, West Java, Indonesia. Mo
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=TypeScript&logo=typescript)
+![C Sharp](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSharp&logo=sharp)
 
 ### ⚒️ Framework
 ![Vue](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue&logo=vue.js)
@@ -26,6 +27,7 @@ My name is Acep, a software engineer living in Cianjur, West Java, Indonesia. Mo
 ![Next](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Next&logo=next.js)
 ![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
 ![Lumen](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Lumen&logo=lumen)
+![Angular](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Angular&logo=angular)
 
 ### 📚 Database
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=MongoDB&logo=mongodb)
@@ -35,10 +37,12 @@ My name is Acep, a software engineer living in Cianjur, West Java, Indonesia. Mo
 ![PostgreSQL](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PostgreSQL&logo=postgresql)
 ![MySQL](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=MySQL&logo=mysql)
 ![DynamoDB](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=DynamoDB&logo=amazondynamodb)
+![Tibero](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=TiberoDB&logo=amazondynamodb)
+![SQLServer](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=SQLServer&logo=amazondynamodb)
 
 ### ☁️ Cloud Provider
 ![DigitalOcean](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=DigitalOcean&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Amazon+AWS&logo=amazonaws)
+![Amazon AWS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Amazon+AWS&logo=amazonwebservices)
 ![Google Cloud](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Google+Cloud&logo=googlecloud)
 ![Firebase](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Firebase&logo=firebase)
 
@@ -47,11 +51,14 @@ My name is Acep, a software engineer living in Cianjur, West Java, Indonesia. Mo
 ![Kubernetes](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Kubernetes&logo=kubernetes)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=GitHub&logo=github)
 ![Vim](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vim&logo=vim)
-![Code Commit](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Code%20Commit&logo=amazonaws)
-![CloudFront](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CloudFront&logo=amazonaws)
-![CloudWatch](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CloudWatch&logo=amazonaws)
-![ElasticBeanstalk](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=ElasticBeanstalk&logo=amazonaws)
-![Lambda](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Lambda&logo=amazonaws)
+![Code Commit](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Code%20Commit&logo=icon)
+![CloudFront](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CloudFront&logo=icon)
+![CloudWatch](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CloudWatch&logo=icon)
+![ElasticBeanstalk](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=ElasticBeanstalk&logo=icon)
+![Lambda](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Lambda&logo=icon)
+![Jira](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Jira&logo=icon)
+![RabbitMQ](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=RabbitMQ&logo=rabbitmq)
+![Terraform](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Terraform&logo=terraform)
 
 ### 📈 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acephasanudin&hide=html&layout=compact&langs_count=8&theme=dark)
